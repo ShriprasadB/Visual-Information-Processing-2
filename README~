@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------------
+In order to compile  code
+type command
+ 
+make
+------------------------------------------------------------------------------------
+In order to run code
+type command
+ 
+make run
+-------------------------------------------------------------------------------------
+In order to remove generated object files
+type command
+ 
+make clean
+----------------------------------------------------------------------------------------
+
+1)It will ask for a path of image with name
+
+2)Give path of image and it will display Menu
+
+3)Select any choice from the Menu to get the output of respective method
+
+4)In order to go to menu hit enter.
+
+5)Repeat process 1,2,3,4 for another image(basel_gray.bmp)
+ 
+6)In order to exit press 4 after menu get displayed
+
+----------------------------------------------------------------------------------------
